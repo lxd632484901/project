@@ -1,0 +1,5 @@
+Django==1.9.5
+Pillow==6.1.0
+pycryptodomex==3.7.2
+PyMySQL==0.7.2
+python-alipay-sdk==1.10.1
